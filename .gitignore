@@ -1,0 +1,5 @@
+echo "*.exe" >> .gitignore
+echo "*.o" >> .gitignore
+echo "*.out" >> .gitignore
+echo "*.obj" >> .gitignore
+echo "*.log" >> .gitignore
